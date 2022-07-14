@@ -1,6 +1,8 @@
 
 ## 👋 你好，很高兴见到你！
 
+<img align="right" src="https://0w0.in/wp-content/uploads/2021/01/SPMax-smal.png"/>
+
 欢迎来到我的Github页面！
 
 我是锦鲤，在北京的 **运维工程师** ，主要工作是 **修电脑** 。
