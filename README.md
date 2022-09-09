@@ -16,6 +16,7 @@
 
 ### 👔工作经历
 
+ - 东城区人民政府办公室
  - 中国资源卫星应用中心
  - 中国民用航空局空中交通管理局
 
@@ -27,9 +28,9 @@
 
 ### 📚最近发布
 
+- [一次超算任务提交失败的解决过程](https://0w0.in/2022/08/yccsrwtjsbdjjgc/)
+- [自制基于Pillow的饼状图生成类](https://0w0.in/2022/08/zzjypdbztscl/)
 - [如何DIY一个每月工作日历图生成器](https://0w0.in/2022/07/rhdygmygzrltscq/)
-- [修改OpenSSL和OpenSSH的版本号](https://0w0.in/2022/01/xgohodbbh/)
-- [HPE 3Par存储硬盘更换](https://0w0.in/2022/01/hpccypgh/)
 
 ### 📈统计
 
