@@ -33,6 +33,6 @@
 
 ### 📈统计
 
-<a href="https://github.com/NekoLines?tab=repositories"><img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekolines&hide=css&layout=compact&theme=buefy"/></a>
-<a href="https://github.com/NekoLines"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=nekolines&show_icons=true&theme=buefy "/></a>
+<a href="https://github.com/NekoLines?tab=repositories"><img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekolines&hide=css,html&layout=compact&theme=buefy"/></a>
+<a href="https://github.com/NekoLines"><img width="43%" src="https://github-readme-stats.vercel.app/api?username=nekolines&show_icons=true&theme=buefy"/></a>
 
