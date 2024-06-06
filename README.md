@@ -28,9 +28,9 @@
 
 ### 📚最近发布
 
-- [一次超算任务提交失败的解决过程](https://0w0.in/2022/08/yccsrwtjsbdjjgc/)
-- [自制基于Pillow的饼状图生成类](https://0w0.in/2022/08/zzjypdbztscl/)
-- [如何DIY一个每月工作日历图生成器](https://0w0.in/2022/07/rhdygmygzrltscq/)
+- [飞利浦70PUF8297/T3电视安装软件/进入工程模式]([https://0w0.in/2022/08/yccsrwtjsbdjjgc/](https://0w0.in/2024/05/16/fei-li-pu-70puf8297-t3-dian-shi-an-zhuang-ruan-jian-jin-ru/))
+- [Mode 1 Retro II(MD-06P)玩机/Root记录]([https://0w0.in/2022/08/zzjypdbztscl/](https://0w0.in/2023/11/14/mode-1-retro-ii-md06p-wan-ji-root-ji-lu/))
+- [技嘉MU70-SU0主板BMC恢复实战](https://0w0.in/2023/02/27/jjmzbbhfsz/)
 
 ### 📈统计
 
